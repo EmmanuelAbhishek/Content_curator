@@ -1,0 +1,66 @@
+2024-12-22 16:07:39,947 - root - INFO - Fetching content for topic: technology
+2024-12-22 16:07:44,785 - root - ERROR - Unexpected error: name 'ExportError' is not defined
+2024-12-22 16:09:40,800 - root - INFO - Fetching content for topic: technology
+2024-12-22 16:09:45,816 - root - ERROR - Unexpected Error: name 'csv' is not defined
+2024-12-22 16:11:45,501 - root - INFO - Fetching content for topic: technology
+2024-12-22 16:11:50,129 - root - ERROR - Unexpected Error: name 'csv' is not defined
+2024-12-22 16:12:54,369 - root - INFO - Fetching content for topic: technology
+2024-12-22 16:12:59,264 - root - ERROR - Unexpected Error: name 'csv' is not defined
+2024-12-22 16:14:11,547 - root - INFO - Fetching content for topic: technology
+2024-12-22 16:14:16,608 - root - ERROR - Unexpected Error: name 'csv' is not defined
+2024-12-22 16:20:18,162 - root - INFO - Logging setup complete.
+2024-12-22 16:20:18,163 - root - INFO - Content Curator instance created successfully.
+2024-12-22 16:20:18,163 - root - INFO - Available Topics:
+2024-12-22 16:20:18,163 - root - INFO - 1. technology
+2024-12-22 16:20:18,164 - root - INFO - 2. education
+2024-12-22 16:20:18,164 - root - INFO - 3. business
+2024-12-22 16:20:18,164 - root - INFO - 4. entertainment
+2024-12-22 16:20:18,164 - root - INFO - 5. lifestyle
+2024-12-22 16:20:23,621 - root - INFO - Fetching content for topic: technology
+2024-12-22 16:20:27,792 - root - INFO - Videos fetched successfully.
+2024-12-22 16:20:28,384 - root - INFO - Video metrics processed successfully.
+2024-12-22 16:20:28,385 - root - ERROR - Unexpected Error: name 'csv' is not defined
+2024-12-22 16:22:02,491 - root - INFO - Logging setup complete.
+2024-12-22 16:22:02,492 - root - INFO - Content Curator instance created successfully.
+2024-12-22 16:22:02,492 - root - INFO - Available Topics:
+2024-12-22 16:22:02,492 - root - INFO - 1. technology
+2024-12-22 16:22:02,493 - root - INFO - 2. education
+2024-12-22 16:22:02,493 - root - INFO - 3. business
+2024-12-22 16:22:02,493 - root - INFO - 4. entertainment
+2024-12-22 16:22:02,494 - root - INFO - 5. lifestyle
+2024-12-22 16:22:04,851 - root - INFO - Fetching content for topic: technology
+2024-12-22 16:22:08,790 - root - INFO - Videos fetched successfully.
+2024-12-22 16:22:09,400 - root - INFO - Video metrics processed successfully.
+2024-12-22 16:22:09,401 - root - ERROR - Unexpected Error: name 'csv' is not defined
+2024-12-22 16:30:12,239 - root - INFO - Logging setup complete.
+2024-12-22 16:30:12,240 - root - INFO - Content Curator instance created successfully.
+2024-12-22 16:30:12,240 - root - INFO - Available Topics:
+2024-12-22 16:30:12,240 - root - INFO - 1. technology
+2024-12-22 16:30:12,241 - root - INFO - 2. education
+2024-12-22 16:30:12,241 - root - INFO - 3. business
+2024-12-22 16:30:12,241 - root - INFO - 4. entertainment
+2024-12-22 16:30:12,242 - root - INFO - 5. lifestyle
+2024-12-22 16:30:14,399 - root - INFO - Fetching content for topic: technology
+2024-12-22 16:30:18,972 - root - INFO - Videos fetched successfully.
+2024-12-22 16:30:19,907 - root - INFO - Video metrics processed successfully.
+2024-12-22 16:30:19,907 - root - ERROR - Unexpected Error: name 'csv' is not defined
+2024-12-22 16:32:33,356 - root - INFO - Logging setup complete.
+2024-12-22 16:32:33,357 - root - INFO - Configuration loaded successfully.
+2024-12-22 16:32:33,357 - root - INFO - Content Curator instance created successfully.
+2024-12-22 16:32:33,358 - root - INFO - Available topics displayed.
+2024-12-22 16:32:35,774 - root - INFO - User selected topic: technology
+2024-12-22 16:32:40,392 - root - INFO - Videos fetched successfully.
+2024-12-22 16:32:41,429 - root - INFO - Video metrics processed successfully.
+2024-12-22 16:32:41,430 - root - ERROR - Unexpected error: name 'csv' is not defined
+2024-12-22 16:32:41,430 - root - INFO - Content Curator application terminated.
+2024-12-22 16:36:58,313 - root - INFO - Logging setup complete.
+2024-12-22 16:36:58,314 - root - INFO - Configuration loaded successfully.
+2024-12-22 16:36:58,314 - root - INFO - Content Curator instance created successfully.
+2024-12-22 16:36:58,315 - root - INFO - Available topics displayed.
+2024-12-22 16:37:03,319 - root - INFO - User selected topic: technology
+2024-12-22 16:37:07,679 - root - INFO - Videos fetched successfully.
+2024-12-22 16:37:08,194 - root - INFO - Video metrics processed successfully.
+2024-12-22 16:37:08,195 - root - INFO - CSV report exported to reports\technology_report_20241222_163708.csv
+2024-12-22 16:37:08,196 - root - INFO - JSON report exported to reports\technology_report_20241222_163708.json
+2024-12-22 16:37:08,197 - root - INFO - Results exported successfully.
+2024-12-22 16:37:08,197 - root - INFO - Content Curator application terminated.

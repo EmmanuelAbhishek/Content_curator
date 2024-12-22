@@ -1,0 +1,13 @@
+{
+    "api_key": "AIzaSyAEjrjW0uvilX5NTlKlwWeNqE7H9Gr19rQ",
+    "output_dir": "reports",
+    "log_dir": "logs",
+    "max_results": 3,
+    "topic_categories": {
+        "technology": ["tech news", "programming", "artificial intelligence", "gadgets"],
+        "education": ["online learning", "tutorials", "course content", "educational"],
+        "business": ["entrepreneurship", "startup", "marketing", "finance"],
+        "entertainment": ["movies", "gaming", "music", "comedy"],
+        "lifestyle": ["fashion", "food", "travel", "fitness"]
+    }
+}
